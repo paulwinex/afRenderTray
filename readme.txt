@@ -4,7 +4,7 @@ INSTALL
 Windows only!
 
 1. Copy afRenderTray.cmd and afRenderTray.pyw to CGRU root folder
-2. Put afRenderTray.cmd link to windows startup folder
+2. Create afRenderTray.cmd link in windows startup folder
 
 RUS
 Скрипт сделан для случаев когда рендерноды часто перезагружаются. По умолчанию при невозможности подключения к серверу afRender просто закрывается. 
